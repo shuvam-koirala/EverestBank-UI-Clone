@@ -1,6 +1,6 @@
-# everestBankUI
+# Everest Bank Login UI Clone
 
-A new Flutter project.
+This is a UI cloning practice of Everest Bank Login Page.
 
 ## Getting Started
 
@@ -16,11 +16,13 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 ## Here are some of the demo screenshot for you
-
+## screenshot 1
 <img src="localhost_57260_(Pixel 2).png"
      alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
-<img src="localhost_57260_(Pixel 2) (1).png"
+     style="float: left; margin-right: 10px;" width="300" /> 
+ ## screenshot 2
+ <img src="localhost_57260_(Pixel 2) (1).png"
      alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />     
+     style="float: left; margin-right: 10px;" width="300" />  
+   
 
