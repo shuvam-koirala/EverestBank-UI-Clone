@@ -19,8 +19,8 @@ samples, guidance on mobile development, and a full API reference.
 ## screenshot 1
 <img src="localhost_57260_(Pixel 2).png"
      alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" width="300" /> 
- ## screenshot 2
+     style="float: left; margin-right: 10px;" width="300" />  
+## screenshot 2
  <img src="localhost_57260_(Pixel 2) (1).png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" width="300" />  
